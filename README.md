@@ -18,8 +18,7 @@ FHIR 개발에 도움되면 좋겠습니다.
 ### 설치 단계
 1. **레포지토리 복제**
    ```bash
-   git clone [레포지토리 URL]
-   cd [레포지토리 이름]
+   git clone https://github.com/westernsalt/FHIR-example-python.git
 
 2. **의존성 설치**
    ```bash
