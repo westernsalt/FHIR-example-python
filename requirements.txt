@@ -1,0 +1,4 @@
+fhir==0.0.4
+fhir.resources==7.0.2
+fhirclient==4.1.0
+fhirpy==1.4.2
